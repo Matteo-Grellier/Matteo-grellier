@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello my name is Matteo GRELLIER and i am a student at Nantes Ynov Campus, i am currently looking for a 6 week internship. You can find me on logo 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/matteo-grellier)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/matteo-grellier-54a9101a1/)
 
 ![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
