@@ -1,10 +1,12 @@
 <h3 align="center">Un étudiant passionnée par le métier de développeur</h3>
 
-- 🔭 I’m currently working on [Poung](https://github.com/Matteo-Grellier/Poung)
+Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 2eme année de bachelore informatique à Nantes Ynov Campus. Et je suis actuellement à la recherche d'un stage de 3mois à partir du 17 mai et d'une alternance sur 3 ans.
 
-- 🌱 I’m currently learning **C#, Unity**
+- 🔭 Je travzaille actuellement sur [Poung](https://github.com/Matteo-Grellier/Poung)
 
-- 📫 How to reach me **matteo.grellier@ynov.com**
+- 🌱 Je suis actuellement en train d'utiliser les langages **C#, Unity**
+
+- 📫 Comment me joindre **matteo.grellier@ynov.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
