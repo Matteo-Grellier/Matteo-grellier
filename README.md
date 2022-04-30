@@ -1,6 +1,6 @@
 <h3 align="center">Un étudiant passionnée par le métier de développeur</h3>
 
-Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 2eme année de bachelor informatique à Nantes Ynov Campus. Et je suis actuellement à la recherche d'un stage de 3mois à partir du 17 mai et d'une alternance sur 3 ans.
+Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 2e année de bachelor informatique à Nantes Ynov Campus. Et je suis actuellement à la recherche d'un stage de 3 mois à partir du 17 mai et d'une alternance sur 3 ans.
 
 - 🔭 Je travaille actuellement sur [Poung](https://github.com/Matteo-Grellier/Poung)
 
