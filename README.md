@@ -2,7 +2,7 @@
 
 Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 2eme année de bachelore informatique à Nantes Ynov Campus. Et je suis actuellement à la recherche d'un stage de 3mois à partir du 17 mai et d'une alternance sur 3 ans.
 
-- 🔭 Je travzaille actuellement sur [Poung](https://github.com/Matteo-Grellier/Poung)
+- 🔭 Je travaille actuellement sur [Poung](https://github.com/Matteo-Grellier/Poung)
 
 - 🌱 Je suis actuellement en train d'utiliser les langages **C#, Unity**
 
