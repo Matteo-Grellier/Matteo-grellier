@@ -1,6 +1,6 @@
 <h3 align="center">Un étudiant passionné par le métier de développeur</h3>
 
-Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 2e année de bachelor informatique à Nantes Ynov Campus. Et je suis actuellement à la recherche d'un stage de 3 mois à partir du 17 mai et d'une alternance sur 3 ans.
+Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 2e année de bachelor informatique à Nantes Ynov Campus. Je suis actuellement à la recherche d'une alternance à partir de Septembre 2022.
 
 - 🌱 Je suis actuellement en train d'utiliser les langages **React, Typescript**
 
