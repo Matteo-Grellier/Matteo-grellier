@@ -2,7 +2,7 @@
 
 Bonjour ✋, Je m'appelle Mattéo GRELLIER et je suis un étudiant en 3e année de bachelor informatique à Nantes Ynov Campus. Je suis actuellement à la recherche d'une alternance à partir de septembre 2023 ainsi que d'un stage d'une durée de 3 mois à partir de mai.
 
-- 🌱 Je suis actuellement en train d'utiliser les langages **Vue, Electron, C#**
+- 🌱 Je suis actuellement en train d'utiliser les technologies suivantes : **C#, Python, Unity**
 
 - 📫 Comment me joindre **matteo.grellier@ynov.com**
 
